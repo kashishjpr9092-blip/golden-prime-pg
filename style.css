@@ -129,7 +129,7 @@ footer {
 @media (max-width: 480px) {
   header.hero {
     height: 70vh;
-    background: url("../Golden_Prime_PG_Website/images/Video\ Credit_\ @lindydenny.jpg") no-repeat center center;
+    background: url("mobilebanner.webp") no-repeat center center;
     background-size: cover;
   }
 
